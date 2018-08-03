@@ -1,0 +1,23 @@
+{
+  "development": {
+      "apiUrl": "http://47.98.189.203/huoqService"
+  },
+  "production": {
+      "apiUrl": "http://47.98.189.203/huoqService"
+  },
+  "testapi": {
+      "apiUrl": "http://114.55.157.88:80"
+  },
+  "测试": {
+      "apiUrl": "http://114.55.157.88:80"
+  },
+  "预发": {
+      "apiUrl": "http://120.27.13.190:8081/huoqService"
+  },
+  "正式非存管": {
+      "apiUrl": "http://www.xinhuajindian.com/huoqService"
+  },
+  "正式存管": {
+      "apiUrl": "http://47.98.189.203/huoqService"
+  }
+}
